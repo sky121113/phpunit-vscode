@@ -1,0 +1,17 @@
+{
+    "name": "mader/phpunit-vscode",
+    "description": "a sample demo",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "mader",
+            "email": "sky121113@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
